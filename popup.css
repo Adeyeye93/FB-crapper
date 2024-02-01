@@ -1,0 +1,18 @@
+button {
+    display: inline-block;
+    padding: 5px 10px;
+    font-size: 14px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #2176ff;
+    color: #e3dff8;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+body {
+    background-color: #231b1d;
+    color: #e3dff8;
+}
